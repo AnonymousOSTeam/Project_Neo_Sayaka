@@ -1,0 +1,13 @@
+# C++ / Compiled Binaries
+*.o
+*.obj
+*.exe
+*.out
+Soul_Core_System
+
+#Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
